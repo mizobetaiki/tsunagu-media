@@ -1,0 +1,23 @@
+# つなぐ集客ラボ
+
+> 中小企業のWEB集客がわかるメディア。運営: 株式会社TSUNAGU（https://www.tsunagu-inc.com/）。
+> 中小企業のWEB集客（ホームページ・SEO・MEO・SNS・広告・計測）を、専門用語ぬきで解説します。
+> 数値は一般的な目安であり、成果を保証するものではありません。
+
+## 主要テーマ
+- Web集客の基本: https://tsunagu-inc-lab.com/theme/kihon
+- ホームページ・LP: https://tsunagu-inc-lab.com/theme/homepage
+- SEO・検索対策: https://tsunagu-inc-lab.com/theme/seo
+- MEO・Googleマップ: https://tsunagu-inc-lab.com/theme/meo
+- SNS運用: https://tsunagu-inc-lab.com/theme/sns
+- Web広告: https://tsunagu-inc-lab.com/theme/ad
+- データ計測・改善: https://tsunagu-inc-lab.com/theme/analytics
+
+## 記事一覧
+- [中小企業のWeb集客 完全ガイド｜何から始める？方法・費用・優先順位](https://tsunagu-inc-lab.com/column/web-shukyaku-kihon): 中小企業のWeb集客を「何から始めるか」で迷う方へ。SEO・MEO・SNS・広告などの主要施策を費用・即効性・優先順位で整理し、着手する順番と予算配分、補助金の使い方まで、専門用語ぬきでまとめた入門ガイドです。
+- [ホームページ制作の費用相場｜5万〜300万円の違いを徹底解説](https://tsunagu-inc-lab.com/column/seisaku-hiyou-souba): ホームページ制作の費用相場を5万円〜300万円の価格帯別・依頼先別に整理。自作・AI・フリーランス・制作会社の違い、維持費や5年総額の考え方、補助金の使い方まで、適正価格を見極める視点を専門用語ぬきで解説します。
+- [ホームページから問い合わせが来ない時に見直す5つのポイント](https://tsunagu-inc-lab.com/column/toiawase-konai): アクセスはあるのに問い合わせが来ない。中小企業のホームページでよくある“詰まり”を、集客と接客（CVR）の切り分けから、ファーストビュー・導線・フォーム・信頼材料まで5つの視点で見直します。
+
+## 運営者
+つなぐ集客ラボは株式会社TSUNAGU（東京・渋谷／Web制作・集客・採用支援）が運営するメディアです。
+会社サイト: https://www.tsunagu-inc.com/
