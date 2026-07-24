@@ -21,3 +21,7 @@
 ## 運営者
 つなぐ集客ラボは株式会社TSUNAGU（東京・渋谷／Web制作・集客・採用支援）が運営するメディアです。
 会社サイト: https://www.tsunagu-inc.com/
+
+## サイトポリシー
+- プライバシーポリシー: https://tsunagu-inc-lab.com/privacy
+- 利用規約: https://tsunagu-inc-lab.com/terms
