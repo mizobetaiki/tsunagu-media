@@ -14,6 +14,7 @@
 - データ計測・改善: https://tsunagu-inc-lab.com/theme/analytics
 
 ## 記事一覧
+- [中小企業のリスティング広告の始め方](https://tsunagu-inc-lab.com/column/web-koukoku-hajimekata): 広告費を無駄にしないために、出稿の前に決めることが3つあります。1件いくらまで払えるか、受け皿はあるか、いつ止めるか。中小企業がWeb広告を小さく始めて、続けるかどうかを判断するまでの手順を順番に整理しました。
 - [ホームページの問い合わせを増やすには](https://tsunagu-inc-lab.com/column/toiawase-fueru-homepage-guide): 問い合わせを増やす打ち手は5つの層に分かれ、効く順番が決まっています。自社がどこで詰まっているかを3つの数字で見分ける方法から、フォーム・導線・信頼材料の直し方、集客を足す順番までを整理しました。
 - [SNS集客は何から始める？中小企業の進め方](https://tsunagu-inc-lab.com/column/sns-shukyaku-nanikara): 人も時間も足りない会社がSNSを始めるなら、決めるのは投稿内容より先に3つです。増やしたい行動・受け皿・月に出せる本数。媒体の選び方、総務省が公表した利用率、LINEの無料枠の数え方、3か月後にやめる基準までまとめました。
 - [Google広告 月3万円で成果は出るか](https://tsunagu-inc-lab.com/column/google-koukoku-3manen): 月3万円のGoogle広告は1日約1,000円の枠です。出すべきかは金額でなく、1件の成約にいくら出せるかで決まります。出稿前に電卓で判断する3ステップ、少額時に閉じる設定、品質スコアの位置づけまで。
