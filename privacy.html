@@ -5,11 +5,18 @@
     if (!matchMedia('(prefers-reduced-motion: reduce)').matches && 'IntersectionObserver' in window) {
       document.documentElement.classList.add('js-anim');
     }
-  </script><!-- Google Analytics 4（つなぐ集客ラボ専用プロパティ・2026-07-23設置） --><script async src="https://www.googletagmanager.com/gtag/js?id=G-EQ6XP9KF95"></script><script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-EQ6XP9KF95');
+  </script><!-- Google Analytics 4（つなぐ集客ラボ専用プロパティ・2026-07-23設置） --><script>
+    // 公開ホストのみ計測。ビルド済みHTMLのローカル確認も除外する。
+    if (['tsunagu-inc-lab.com', 'www.tsunagu-inc-lab.com'].includes(location.hostname)) {
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { window.dataLayer.push(arguments); };
+      window.gtag('js', new Date());
+      window.gtag('config', 'G-EQ6XP9KF95');
+      var analyticsScript = document.createElement('script');
+      analyticsScript.async = true;
+      analyticsScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-EQ6XP9KF95';
+      document.head.appendChild(analyticsScript);
+    }
   </script><link rel="stylesheet" href="/_astro/_slug_.CDd8L_Gm.css">
 <style>.reading[data-astro-cid-fb3qbcs3]{padding-bottom:80px}
 </style></head> <body> <a class="skip-link" href="#main">本文へスキップ</a> <header class="header" id="siteHeader"> <div class="container header__inner"> <a class="brand" href="/" aria-label="つなぐ集客ラボ トップへ"> <img src="/_astro/logo_footer.BmCW49lT_Ss50s.webp" alt="株式会社TSUNAGU" loading="eager" decoding="async" fetchpriority="auto" width="50" height="34" class="brand__logo"> <span class="brand__text"> <span class="brand-logo">つなぐ集客ラボ</span> <span class="brand__sub">中小企業のWEB集客がわかるメディア</span> </span> </a> <!-- 2026-09-02: ランドマーク名を中身に合わせる（新着／テーマ／まず読む／運営会社＝カテゴリではない。R2-10） --><nav class="nav" aria-label="メインメニュー"> <a class="nav__link" href="/#new">新着</a><a class="nav__link" href="/#themes">テーマ</a><a class="nav__link" href="/#ranking">まず読む</a><a class="nav__link" href="/#about">運営会社</a> </nav> <div class="header__tools">   <a class="btn btn--primary" href="https://www.tsunagu-inc.com/contact.html" rel="noopener" data-cta="contact">無料で相談する</a> <button class="icon-btn hamburger" id="menuToggle" aria-controls="mobileMenu" aria-label="メニューを開く" aria-expanded="false"> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg> </button> </div> </div>  </header> <nav class="mobile-menu" id="mobileMenu" aria-label="モバイルメニュー"> <a href="/#new">新着</a><a href="/#themes">テーマ</a><a href="/#ranking">まず読む</a><a href="/#about">運営会社</a>  <a class="btn btn--primary btn--block" href="https://www.tsunagu-inc.com/contact.html" rel="noopener" data-cta="contact">無料で相談する</a> </nav>  <nav class="crumbs" aria-label="パンくずリスト"> <div class="container"> <ol class="crumbs__list"> <li><a href="/">トップ</a></li><li aria-hidden="true" class="crumbs__sep">/</li><li aria-current="page">プライバシーポリシー</li> </ol> </div> </nav> <main id="main" tabindex="-1" data-astro-cid-fb3qbcs3> <div class="reading" data-astro-cid-fb3qbcs3> <div class="list-head" data-astro-cid-fb3qbcs3> <p class="list-head__eyebrow" data-astro-cid-fb3qbcs3>PRIVACY POLICY</p> <h1 class="list-head__title" data-astro-cid-fb3qbcs3>プライバシーポリシー</h1> <p class="list-head__sub" data-astro-cid-fb3qbcs3>
