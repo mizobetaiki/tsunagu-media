@@ -14,6 +14,7 @@
 - データ計測・改善: https://tsunagu-inc-lab.com/theme/analytics
 
 ## 記事一覧
+- [お金をかけずに集客 何から始めるか](https://tsunagu-inc-lab.com/column/okane-kakezu-shukyaku): 広告費をかけられない中小企業・店舗が、無料の集客で最初の一手を決めるための順番です。来店型か相談型かで変わる始め方、時間で払う無料施策の選び方、お金をかけ始める合図まで。
 - [Googleの口コミを増やす正しい方法](https://tsunagu-inc-lab.com/column/google-kuchikomi-fuyasu): 口コミを増やしたいが、特典は使えない店舗向けに、Googleの規約に沿った依頼の仕方を整理しました。依頼のタイミング、リンクとQRコードの使い分け、やってはいけない依頼まで。
 - [インスタのインサイト 店舗はどこを見る？](https://tsunagu-inc-lab.com/column/insta-insight-dokowo-miru): インスタのインサイトを開いても、どこを見ればよいか分からない店舗の方へ。来店までの4段階に数字を並べ、どこで止まっているかを月1回で見つける方法です。90日で消える数字の残し方、店頭で数える方法も整理しました。
 - [店舗のSNS投稿が続かない時の立て直し方](https://tsunagu-inc-lab.com/column/sns-toukou-tsuzukanai): 店舗のSNS投稿が止まりがちな方へ、止まる工程を5つに分けて見つけ、そこだけ直す手順です。毎日投稿をやめて最低ラインを決める方法、投稿の型を3つに固定してネタに悩まない方法、止まった後の再開ルールまでまとめました。
